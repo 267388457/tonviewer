@@ -1,4 +1,4 @@
-# TonAPI Auth
+AHB5X3DX3JXEXLAAAAAOGVGLRHX64PMI5C443XNFZLYBNEMEKW6FT3MJDT2GXHZEXZWC6YY# TonAPI Auth
 
 ## Registering your API key
 At the moment you need special key to be able to use TonAPI, otherwise you requests will be limited.
